@@ -20,7 +20,8 @@ The third part of our solution is to create a p2p market for financing BitPoint 
 
 
 ## profitibility
-  - take from lamasu website 
+From the lamasu website
+"Prime locations are reporting monthly transactions volumes from $70K to as high as $300K, standard locations about $20K to $30K. Operators have been covering the cost of their machines in 3-9 months."
 
 
 ## BitPoint Licence 
